@@ -3,4 +3,3 @@
 ; Assinatura pro boot funcionar
 db 0x55
 db 0xAA
-
